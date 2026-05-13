@@ -1,0 +1,43 @@
+[
+  {
+    "id": "cat-vestidos",
+    "slug": "vestidos",
+    "nombre": "Vestidos",
+    "descripcion": "Siluetas fluidas para cada ocasión, de midi a maxi.",
+    "heroImage": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1600&q=80",
+    "subcategorias": [
+      { "id": "cortos", "nombre": "Vestidos cortos" },
+      { "id": "midi", "nombre": "Vestidos midi" },
+      { "id": "largos", "nombre": "Vestidos largos" }
+    ]
+  },
+  {
+    "id": "cat-blusas",
+    "slug": "blusas",
+    "nombre": "Blusas",
+    "descripcion": "Capas suaves en lino, seda y algodón con acabados artesanales.",
+    "heroImage": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1600&q=80",
+    "subcategorias": [
+      { "id": "manga-larga", "nombre": "Manga larga" },
+      { "id": "sin-mangas", "nombre": "Sin mangas" }
+    ]
+  },
+  {
+    "id": "cat-pantalones",
+    "slug": "pantalones",
+    "nombre": "Pantalones",
+    "descripcion": "Cortes amplios y cinturas cómodas para vivir con calma.",
+    "heroImage": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1600&q=80",
+    "subcategorias": [
+      { "id": "wide", "nombre": "Wide leg" },
+      { "id": "rectos", "nombre": "Rectos" }
+    ]
+  },
+  {
+    "id": "cat-accesorios",
+    "slug": "accesorios",
+    "nombre": "Accesorios",
+    "descripcion": "Detalles que arropan: pañuelos, cinturones y piezas tejidas.",
+    "heroImage": "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=1600&q=80"
+  }
+]

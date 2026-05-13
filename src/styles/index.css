@@ -1,0 +1,23 @@
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=Fraunces:opsz,wght@9..144,300;9..144,400;9..144,500&family=Inter:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  @apply antialiased;
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply bg-lr-bg font-body text-lr-text text-[15px] sm:text-base;
+  min-height: 100dvh;
+}
+
+::selection {
+  @apply bg-lr-rose/40 text-lr-text;
+}
+
+.lr-container {
+  @apply mx-auto w-full max-w-[1440px] px-5 sm:px-8 lg:px-16 xl:px-24;
+}

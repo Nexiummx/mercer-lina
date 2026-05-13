@@ -1,0 +1,58 @@
+[
+  {
+    "id": "t1",
+    "quote": "Es la primera vez que un vestido me hace sentir en casa y a la vez muy especial. La tela es un abrazo.",
+    "nombre": "Mariana R.",
+    "ciudad": "Guadalajara",
+    "estrellas": 5
+  },
+  {
+    "id": "t2",
+    "quote": "Amo que no parezca fast fashion. Se nota el peso del lino y la caída.",
+    "nombre": "Sofía L.",
+    "ciudad": "CDMX",
+    "estrellas": 5
+  },
+  {
+    "id": "t3",
+    "quote": "Pedí por WhatsApp y me respondieron con calma, tallas claras y envío impecable.",
+    "nombre": "Valeria G.",
+    "ciudad": "Monterrey",
+    "estrellas": 5
+  },
+  {
+    "id": "t4",
+    "quote": "Mi blusa favorita del armario. La uso en reuniones y en domingo de mercado.",
+    "nombre": "Andrea P.",
+    "ciudad": "Querétaro",
+    "estrellas": 5
+  },
+  {
+    "id": "t5",
+    "quote": "La colección Jardín huele a verano aunque sea invierno. Editorial de revista.",
+    "nombre": "Camila H.",
+    "ciudad": "Guadalajara",
+    "estrellas": 5
+  },
+  {
+    "id": "t6",
+    "quote": "Devolución sin drama y asesoría de talla honesta. Eso vale oro.",
+    "nombre": "Lucía M.",
+    "ciudad": "Mérida",
+    "estrellas": 5
+  },
+  {
+    "id": "t7",
+    "quote": "Me encanta saber de dónde viene mi ropa. Se siente bien vestir así.",
+    "nombre": "Elena T.",
+    "ciudad": "Puebla",
+    "estrellas": 5
+  },
+  {
+    "id": "t8",
+    "quote": "Los pantalones de lino son mi uniforme de oficina con sandalias y joyas finas.",
+    "nombre": "Paula N.",
+    "ciudad": "CDMX",
+    "estrellas": 5
+  }
+]

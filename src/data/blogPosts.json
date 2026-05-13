@@ -1,0 +1,210 @@
+[
+  {
+    "slug": "como-cuidar-tu-lino",
+    "titulo": "Cómo cuidar tu lino como en la Toscana",
+    "extracto": "El lino es memoria de verano: se arruga con honestidad y madura con cada lavado.",
+    "categoria": "Cuidados",
+    "autor": "Roma Mercier",
+    "fecha": "12 abril 2026",
+    "tiempoLectura": "8 min",
+    "imagen": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1400&q=80",
+    "destacado": true,
+    "bioAutora": "Roma coordina talleres y escribe sobre procesos con mano visible.",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "El lino no pide perfección: pide constancia suave. Si lo tratas con prisa, se vuelve rígido; si lo acaricias con agua fría y sombra, se vuelve sedoso con el tiempo.",
+        "id": "intro"
+      },
+      {
+        "type": "h2",
+        "text": "Lavado: menos es más",
+        "id": "lavado"
+      },
+      {
+        "type": "p",
+        "text": "Lava piezas similares juntas, del revés, con detergente neutro. Evita suavizantes que tapan la fibra. Si hay mancha, atiéndela antes con agua fría y jabón de castilla."
+      },
+      {
+        "type": "quote",
+        "text": "Una prenda bien cuidada no brilla por nueva: brilla por vivida."
+      },
+      {
+        "type": "h3",
+        "text": "Secado y planchado",
+        "id": "plancha"
+      },
+      {
+        "type": "p",
+        "text": "Exprime sin retorcer. Extiende horizontalmente sobre toalla limpia. Plancha con vapor moderado mientras aún está levemente húmeda para recuperar el caída."
+      },
+      {
+        "type": "img",
+        "src": "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=1400&q=80",
+        "caption": "Lino al atardecer, textura viva."
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Agua fría siempre",
+          "No secadora",
+          "Guardar transpirable",
+          "Rotar uso entre piezas"
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "armario-capsula-calido",
+    "titulo": "Un armario cápsula en tonos cálidos",
+    "extracto": "Cómo elegir 12 piezas que conviven sin pelearse en el clóset.",
+    "categoria": "Estilo",
+    "autor": "Lina Mercier",
+    "fecha": "2 abril 2026",
+    "tiempoLectura": "6 min",
+    "imagen": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Partimos de tres familias de color: crema, terracota y salvia. Añade un toque dorado en accesorios y listo: base sólida para mezclar texturas."
+      },
+      {
+        "type": "h2",
+        "text": "Regla del 70/20/10",
+        "id": "regla"
+      },
+      {
+        "type": "p",
+        "text": "Setenta por ciento neutros cálidos, veinte acentos en rosa polvo o terracota, diez detalles joya o pañuelo."
+      }
+    ]
+  },
+  {
+    "slug": "historia-del-atelier",
+    "titulo": "Historias desde nuestro atelier",
+    "extracto": "Domingos de café, máquinas lentas y risas que acompañan el hilo.",
+    "categoria": "Historias",
+    "autor": "Lina & Roma",
+    "fecha": "20 marzo 2026",
+    "tiempoLectura": "5 min",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "El atelier huele a tiza de sastre y jazmín de la ventana. Aquí no hay temporadas express: hay listas cortas y nombres de clientas que conocemos por el tacto de su piel al medir."
+      }
+    ]
+  },
+  {
+    "slug": "receta-te-helado",
+    "titulo": "Té helado de hibisco para tardes de costura",
+    "extracto": "Bebida rosa suave para acompañar el ritmo lento del pedal.",
+    "categoria": "Recetas",
+    "autor": "Roma Mercier",
+    "fecha": "8 marzo 2026",
+    "tiempoLectura": "3 min",
+    "imagen": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Hibisco, miel de abeja local y rodajas de naranja. Enfriar toda la noche. Servir con hielo en copa alta."
+      }
+    ]
+  },
+  {
+    "slug": "sostenibilidad-real",
+    "titulo": "Sostenibilidad que se puede contar sin marketing",
+    "extracto": "Números pequeños, salarios claros y materiales que respiran.",
+    "categoria": "Sostenibilidad",
+    "autor": "Roma Mercier",
+    "fecha": "28 febrero 2026",
+    "tiempoLectura": "7 min",
+    "imagen": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Preferimos decir 'hicimos 80 piezas' a 'agotado en horas'. La escala humana es nuestra ventaja, no nuestro freno."
+      }
+    ]
+  },
+  {
+    "slug": "sedas-y-transparencias",
+    "titulo": "Sedas y transparencias con intención",
+    "extracto": "Cómo usar capas ligeras sin perder comodidad en la ciudad.",
+    "categoria": "Estilo",
+    "autor": "Lina Mercier",
+    "fecha": "15 febrero 2026",
+    "tiempoLectura": "5 min",
+    "imagen": "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Combina slip dress con camisa de lino abierta y cinturón artesanal. El contraste de pesos hace magia."
+      }
+    ]
+  },
+  {
+    "slug": "viaje-oaxaca-talleres",
+    "titulo": "Notas de viaje: talleres en Oaxaca",
+    "extracto": "Telar, barro y risas: lo que aprendimos en la última visita.",
+    "categoria": "Historias",
+    "autor": "Lina Mercier",
+    "fecha": "2 febrero 2026",
+    "tiempoLectura": "9 min",
+    "imagen": "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Cada pieza colaborativa lleva etiqueta con nombre del taller. Es un acto de gratitud visible."
+      }
+    ]
+  },
+  {
+    "slug": "cuidado-de-joyas-textiles",
+    "titulo": "Cuidado de joyas textiles y bordados",
+    "extracto": "Cepillos suaves, bolsas de algodón y nunca colgar del hilo decorativo.",
+    "categoria": "Cuidados",
+    "autor": "Roma Mercier",
+    "fecha": "22 enero 2026",
+    "tiempoLectura": "4 min",
+    "imagen": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Voltea prendas bordadas del revés para lavar. Usa bolsa de malla si la lavadora es inevitable."
+      }
+    ]
+  },
+  {
+    "slug": "ritual-fin-de-semana",
+    "titulo": "Ritual de fin de semana para tu clóset",
+    "extracto": "Aire, luz y reorganización suave: domingo de spa para la ropa.",
+    "categoria": "Estilo",
+    "autor": "Lina Mercier",
+    "fecha": "10 enero 2026",
+    "tiempoLectura": "5 min",
+    "imagen": "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Abre ventanas, sacude prendas al aire, vuelve a colgar con perchas de madera. Termina con té y música lenta."
+      }
+    ]
+  },
+  {
+    "slug": "tendencias-que-permanecen",
+    "titulo": "Tres 'tendencias' que en realidad son clásicos",
+    "extracto": "Del vestido slip al pantalón amplio: formas que regresan porque funcionan.",
+    "categoria": "Sostenibilidad",
+    "autor": "Lina Mercier",
+    "fecha": "3 enero 2026",
+    "tiempoLectura": "6 min",
+    "imagen": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1400&q=80",
+    "contenido": [
+      {
+        "type": "p",
+        "text": "Invertir en clásicos cálidos es invertir en años, no en semanas de feed."
+      }
+    ]
+  }
+]

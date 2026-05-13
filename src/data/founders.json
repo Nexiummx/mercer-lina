@@ -1,0 +1,16 @@
+[
+  {
+    "id": "f-lina",
+    "nombre": "Lina Mercier",
+    "rol": "Dirección creativa & patronaje",
+    "bio": "Lina estudió diseño de modas en Guadalajara y perfeccionó su oficio en talleres pequeños de Oaxaca. Ama los vestidos que se mueven con el viento y las telas que envejecen bonito.",
+    "imagen": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=800&q=80"
+  },
+  {
+    "id": "f-roma",
+    "nombre": "Roma Mercier",
+    "rol": "Producción responsable & relación con talleres",
+    "bio": "Roma coordina la cadena de valor con mano firme y corazón abierto: visita a artesanos, tiempos justos y la promesa de que cada prenda tenga historia que contar.",
+    "imagen": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=800&q=80"
+  }
+]

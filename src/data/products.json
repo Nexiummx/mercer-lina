@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "p-1",
+    "slug": "vestido-mara-crema",
+    "nombre": "Vestido Mara",
+    "precio": 2890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Mara forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 0,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 0
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-2",
+    "slug": "vestido-olivia-salvia",
+    "nombre": "Vestido Olivia",
+    "precio": 3290,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Olivia forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-3",
+    "slug": "vestido-tortola-terracota",
+    "nombre": "Vestido Tórtola",
+    "precio": 3490,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Tórtola forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-4",
+    "slug": "vestido-toscana-oro",
+    "nombre": "Vestido Toscana",
+    "precio": 4890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Toscana forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-5",
+    "slug": "blusa-frida-lino",
+    "nombre": "Blusa Frida",
+    "precio": 1490,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Blusa Frida forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1550614000-4b9519e02fe4?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-6",
+    "slug": "blusa-elena-crema",
+    "nombre": "Blusa Elena",
+    "precio": 1390,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Blusa Elena forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-7",
+    "slug": "blusa-clara-rosa",
+    "nombre": "Blusa Clara",
+    "precio": 1290,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Blusa Clara forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1572804013309-27a43509d647?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-8",
+    "slug": "pantalon-ola-lino",
+    "nombre": "Pantalón Ola",
+    "precio": 1890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Pantalón Ola forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1550614000-4b9519e02fe4?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "pantalones",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 0,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-9",
+    "slug": "pantalon-lino-beige",
+    "nombre": "Pantalón Lino",
+    "precio": 1790,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Pantalón Lino forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "pantalones",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-10",
+    "slug": "falda-roma-midi",
+    "nombre": "Falda Roma",
+    "precio": 1690,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Falda Roma forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1572804013309-27a43509d647?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 0
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-11",
+    "slug": "top-lila-seda",
+    "nombre": "Top Lila",
+    "precio": 890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Top Lila forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-12",
+    "slug": "conjunto-florencia",
+    "nombre": "Conjunto Florencia",
+    "precio": 3890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Conjunto Florencia forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-13",
+    "slug": "vestido-lucrecia",
+    "nombre": "Vestido Lucrecia",
+    "precio": 2990,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Lucrecia forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1525507119025-1904c3b21b7c?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-14",
+    "slug": "camisa-marta",
+    "nombre": "Camisa Marta",
+    "precio": 1590,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Camisa Marta forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-15",
+    "slug": "pantalon-wide-leg",
+    "nombre": "Pantalón wide leg",
+    "precio": 1990,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Pantalón wide leg forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "pantalones",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 0,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-16",
+    "slug": "maxi-falda-alba",
+    "nombre": "Maxi falda Alba",
+    "precio": 2190,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Maxi falda Alba forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1525507119025-1904c3b21b7c?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-17",
+    "slug": "panuelo-seda-iris",
+    "nombre": "Pañuelo seda Iris",
+    "precio": 690,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Pañuelo seda Iris forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "accesorios",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-18",
+    "slug": "cinturon-cuero-artesanal",
+    "nombre": "Cinturón artesanal",
+    "precio": 890,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Cinturón artesanal forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "accesorios",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-19",
+    "slug": "bolso-tejido-atardecer",
+    "nombre": "Bolso tejido Atardecer",
+    "precio": 1290,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Bolso tejido Atardecer forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "accesorios",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 0
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-20",
+    "slug": "vestido-primavera-dorado",
+    "nombre": "Vestido Primavera Dorado",
+    "precio": 4590,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Vestido Primavera Dorado forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "vestidos",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-21",
+    "slug": "blusa-encaje-vintage",
+    "nombre": "Blusa encaje vintage",
+    "precio": 1790,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Blusa encaje vintage forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "manifiesto",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-22",
+    "slug": "pantalon-palazzo-hierba",
+    "nombre": "Pantalón palazzo Hierba",
+    "precio": 2090,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Pantalón palazzo Hierba forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "pantalones",
+    "etiquetas": [
+      "Nuevo"
+    ],
+    "stockPorTalla": {
+      "XS": 0,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-23",
+    "slug": "kimono-jardin",
+    "nombre": "Kimono Jardín",
+    "precio": 2490,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Kimono Jardín forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1550614000-4b9519e02fe4?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "jardin",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  },
+  {
+    "id": "p-24",
+    "slug": "top-canale-terracota",
+    "nombre": "Top canalé Terracota",
+    "precio": 990,
+    "descripcionCorta": "Pieza confeccionada con fibras naturales y acabados hechos a mano en talleres familiares de Jalisco.",
+    "descripcionLarga": "Top canalé Terracota forma parte de nuestras colecciones de slow fashion: siluetas fluidas, tacto cálido y una paleta pensada para combinar temporada tras temporada. Cada detalle —costuras, botonadura, caída— busca honrar el tiempo de quien la viste y de quien la confecciona.",
+    "materiales": "55% lino europeo, 45% algodón orgánico. Forro de algodón en zonas de contacto.",
+    "cuidados": "Lava en frío con detergente suave. No uses secadora; extiende a la sombra. Plancha con vapor a temperatura media.",
+    "medidas": "Modelo usa talla S. Contorno busto 88 cm, cintura 68 cm, largo desde hombro según ficha de patronaje.",
+    "tallas": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      {
+        "id": "crema",
+        "nombre": "Crema",
+        "hex": "#F5EBDD"
+      },
+      {
+        "id": "terracota",
+        "nombre": "Terracota",
+        "hex": "#C97F5F"
+      },
+      {
+        "id": "salvia",
+        "nombre": "Salvia",
+        "hex": "#8B9D7E"
+      }
+    ],
+    "imagenes": [
+      "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=78",
+      "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=78"
+    ],
+    "coleccionSlug": "primavera-eterna",
+    "categoriaSlug": "blusas",
+    "etiquetas": [
+      "Nuevo",
+      "Editorial",
+      "Lino"
+    ],
+    "stockPorTalla": {
+      "XS": 4,
+      "S": 4,
+      "M": 4,
+      "L": 4,
+      "XL": 4
+    },
+    "quoteDisenadora": "Queríamos una pieza que se sintiera como una tarde larga en el jardín: suave, honesta y sin prisa.",
+    "storyTitulo": "El origen de la pieza",
+    "storyTexto": "Diseñamos esta silueta pensando en el vaivén del viento entre los árboles de aguacate y la luz que entra oblicua al atardecer. Es una prenda para caminar despacio, para citas que importan y para los días en los que elegir bien se siente bien."
+  }
+]

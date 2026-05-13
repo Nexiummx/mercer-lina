@@ -1,0 +1,44 @@
+[
+  {
+    "id": "c1",
+    "slug": "como-cuidar-tu-lino",
+    "titulo": "Cómo lavar lino sin perder su encanto",
+    "extracto": "Agua fría, detergente suave y paciencia: el ritual que alarga la vida de tus piezas.",
+    "imagen": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "c2",
+    "slug": "sedas-y-transparencias",
+    "titulo": "Cómo cuidar la seda en casa",
+    "extracto": "Vapor, sombra y nunca exprimir: guía rápida para telas delicadas.",
+    "imagen": "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "c3",
+    "slug": "armario-capsula-calido",
+    "titulo": "Almacenamiento estacional con intención",
+    "extracto": "Cómo guardar prendas para que despierten frescas cada temporada.",
+    "imagen": "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "c4",
+    "slug": "historia-del-atelier",
+    "titulo": "Reparar dobladillos: mini taller en casa",
+    "extracto": "Puntos básicos para alargar la vida útil sin máquina industrial.",
+    "imagen": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "c5",
+    "slug": "receta-te-helado",
+    "titulo": "Quitar manchas con remedios naturales",
+    "extracto": "Bicarbonato, sal y sol: cuándo usar cada uno sin dañar fibras.",
+    "imagen": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "id": "c6",
+    "slug": "viaje-oaxaca-talleres",
+    "titulo": "Plancha y vapor: acabado editorial",
+    "extracto": "El acabado que transforma una prenda de 'bien' a 'atelier'.",
+    "imagen": "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=1200&q=80"
+  }
+]
