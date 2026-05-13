@@ -111,7 +111,7 @@ export function Footer() {
         <div className="lr-container flex flex-col gap-3 py-6 sm:flex-row sm:items-center sm:justify-between">
           <p className="font-sans text-xs text-lr-onDark/70">© {new Date().getFullYear()} Lina & Roma · Demo Nexium</p>
           <p className="flex items-center gap-2 font-sans text-xs text-lr-onDark/60">
-            <IconHeart className="h-3.5 w-3.5" /> Términos · Privacidad
+            <IconHeart className="h-3.5 w-3.5" /> Términos · Privacidad · Nexium
           </p>
         </div>
       </div>
