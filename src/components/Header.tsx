@@ -35,7 +35,7 @@ function SearchPanel({ open, onClose }: { open: boolean; onClose: () => void }) 
             exit={{ opacity: 0, y: 12 }}
             transition={{ duration: 0.45, ease: easePremium }}
             className="w-full max-w-xl rounded-sm border border-lr-border bg-lr-surface p-4 shadow-medium"
-            onClick={(e) => e.stopPropagation()}
+            onClick={(e: React.MouseEvent) => e.stopPropagation()}
           >
             <div className="flex items-center gap-2 border-b border-lr-rose/40 pb-3">
               <IconSearch className="text-lr-muted" />
