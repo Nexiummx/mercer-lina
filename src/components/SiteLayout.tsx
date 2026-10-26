@@ -17,7 +17,7 @@ export function SiteLayout() {
   return (
     <div className="min-h-screen bg-lr-bg">
       <Header />
-      <main className="pt-[112px] sm:pt-[104px] lg:pt-[88px]">
+      <main>
         <AnimatePresence mode="wait">
           <motion.div key={loc.pathname} variants={pageFade} initial="initial" animate="animate" exit="exit">
             <Outlet />

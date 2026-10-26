@@ -1,3 +1,4 @@
+import { useLocation } from "react-router-dom";
 import { buildWhatsAppUrl, useLinaStore } from "../store/useLinaStore";
 import { IconWhatsApp } from "./icons";
 
@@ -6,7 +7,8 @@ const DEFAULT_MSG =
 
 export function FloatingWhatsApp() {
   const mode = useLinaStore((s) => s.purchaseMode);
-  if (mode !== "whatsapp") return null;
+  const { pathname } = useLocation();
+  if (mode !== "whatsapp" || pathname === "/") return null;
   return (
     <a
       href={buildWhatsAppUrl(DEFAULT_MSG)}

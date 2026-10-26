@@ -79,12 +79,12 @@ export default function ContactoPage() {
             {
               t: "Guadalajara Centro",
               d: "Mercado Baratillo, local 12 (demo)",
-              img: "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=900&q=80",
+              img: "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=900&q=80",
             },
             {
               t: "Zapopan",
               d: "Av. Acueducto 450, planta baja (demo)",
-              img: "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=900&q=80",
+              img: "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=900&q=80",
             },
           ].map((s) => (
             <article key={s.t} className="overflow-hidden rounded-sm border border-lr-border bg-lr-surface shadow-soft">

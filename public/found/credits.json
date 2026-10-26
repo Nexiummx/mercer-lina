@@ -1,0 +1,74 @@
+[
+  {
+    "file": "public/found/chambray-fabric.jpg",
+    "media": "image",
+    "ref": "openverse:9aa1c2c9-af3d-4c0f-bb8e-914e6cf44d5d",
+    "title": "Chambray fabric",
+    "creator": "Enby",
+    "creatorUrl": "https://commons.wikimedia.org/w/index.php?title=User:Enby&action=edit&redlink=1",
+    "date": null,
+    "license": "CC BY-SA 4.0",
+    "licenseCode": "by-sa",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "creditRequired": true,
+    "page": "https://commons.wikimedia.org/w/index.php?curid=92286312",
+    "via": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Chambray_fabric.jpg/1920px-Chambray_fabric.jpg",
+    "width": 1920,
+    "height": 1280,
+    "bytes": 595438,
+    "credit": "\"Chambray fabric\" by Enby, CC BY-SA 4.0, via Wikimedia Commons",
+    "notes": [
+      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+    ],
+    "saved": "2026-10-24T08:53:28.578Z"
+  },
+  {
+    "file": "public/found/vintage-kohler-sewing-machine.jpg",
+    "media": "image",
+    "ref": "openverse:e38a8422-a5e1-40d0-bc4f-6c9f01977808",
+    "title": "Vintage Köhler sewing machine",
+    "creator": "Uberprutser",
+    "creatorUrl": "https://commons.wikimedia.org/wiki/User:Uberprutser",
+    "date": null,
+    "license": "CC BY-SA 3.0",
+    "licenseCode": "by-sa",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+    "creditRequired": true,
+    "page": "https://commons.wikimedia.org/w/index.php?curid=24083577",
+    "via": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Vintage_K%C3%B6hler_sewing_machine.jpg/1920px-Vintage_K%C3%B6hler_sewing_machine.jpg",
+    "width": 1920,
+    "height": 1440,
+    "bytes": 565519,
+    "credit": "\"Vintage Köhler sewing machine\" by Uberprutser, CC BY-SA 3.0, via Wikimedia Commons",
+    "notes": [
+      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+    ],
+    "saved": "2026-10-24T08:53:32.035Z"
+  },
+  {
+    "file": "public/found/wooden-spools-of-sewing-thread-in-different.jpg",
+    "media": "image",
+    "ref": "commons:145540911",
+    "title": "Wooden spools of sewing thread in different colors 6",
+    "creator": "W.carter",
+    "creatorUrl": null,
+    "date": "2023-10-08",
+    "license": "CC BY-SA 4.0",
+    "licenseCode": "by-sa",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "creditRequired": true,
+    "page": "https://commons.wikimedia.org/wiki/File:Wooden_spools_of_sewing_thread_in_different_colors_6.jpg",
+    "via": "Wikimedia Commons",
+    "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Wooden_spools_of_sewing_thread_in_different_colors_6.jpg/1920px-Wooden_spools_of_sewing_thread_in_different_colors_6.jpg",
+    "width": 1920,
+    "height": 1835,
+    "bytes": 679045,
+    "credit": "\"Wooden spools of sewing thread in different colors 6\" by W.carter, CC BY-SA 4.0, via Wikimedia Commons",
+    "notes": [
+      "Share-alike: an altered version (recoloured, combined with other pictures) must be shared under the same licence."
+    ],
+    "saved": "2026-10-24T08:53:32.184Z"
+  }
+]

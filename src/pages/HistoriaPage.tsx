@@ -15,7 +15,7 @@ const milestones = [
     year: "2020",
     t: "Abre el primer atelier en Guadalajara",
     d: "Un espacio pequeño con luz cálida, perchas de madera y clientas que buscaban lo mismo: calma.",
-    img: "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=900&q=80",
+    img: "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=900&q=80",
   },
   {
     year: "2022",
@@ -27,7 +27,7 @@ const milestones = [
     year: "2024",
     t: "Colaboraciones con talleres familiares en Oaxaca",
     d: "Tejido, bordado y tintes naturales: manos que firman cada pieza.",
-    img: "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=900&q=80",
+    img: "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=900&q=80",
   },
 ];
 
@@ -101,7 +101,7 @@ export default function HistoriaPage() {
             Visitamos cada espacio donde cosemos: tomamos té, revisamos iluminación y escuchamos sugerencias. La moda justa empieza por salarios claros y respeto mutuo.
           </p>
           <div className="mt-10 grid gap-4 sm:grid-cols-3">
-            {["1521572163474-6864f9cf17ab", "1544966503-7cc5ac882d5f", "1503341450023-01fd367fbdaa"].map((id) => (
+            {["1521572163474-6864f9cf17ab", "1594633312681-425c7b97ccd1", "1539533018447-63fcce2678e3"].map((id) => (
               <img key={id} src={`https://images.unsplash.com/photo-${id}?auto=format&fit=crop&w=800&q=80`} alt="" className="h-56 w-full rounded-sm object-cover" />
             ))}
           </div>

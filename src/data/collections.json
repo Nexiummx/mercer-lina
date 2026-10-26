@@ -13,8 +13,8 @@
       { "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=1400&q=80", "caption": "Editorial Jardín" },
       { "src": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1000&q=80", "caption": "Pantalón Ola" },
       { "src": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=1100&q=80", "caption": "Luz de atardecer" },
-      { "src": "https://images.unsplash.com/photo-1581044777550-3a55d2e127cd?auto=format&fit=crop&w=1000&q=80", "caption": "Conjunto Florencia" },
-      { "src": "https://images.unsplash.com/photo-1550614000-4b9519e02fe4?auto=format&fit=crop&w=1200&q=80", "caption": "Kimono Jardín" },
+      { "src": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=1000&q=80", "caption": "Conjunto Florencia" },
+      { "src": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=1200&q=80", "caption": "Kimono Jardín" },
       { "src": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=900&q=80", "caption": "Detalle de textura" }
     ],
     "productSlugs": [
@@ -31,8 +31,8 @@
     ],
     "bts": [
       { "src": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&w=800&q=80", "caption": "Patronaje a mano en el atelier." },
-      { "src": "https://images.unsplash.com/photo-1503341450023-01fd367fbdaa?auto=format&fit=crop&w=800&q=80", "caption": "Rollos de lino seleccionados." },
-      { "src": "https://images.unsplash.com/photo-1490367532201-b9bc1d076d6b?auto=format&fit=crop&w=800&q=80", "caption": "Costura fina, costura con tiempo." },
+      { "src": "https://images.unsplash.com/photo-1539533018447-63fcce2678e3?auto=format&fit=crop&w=800&q=80", "caption": "Rollos de lino seleccionados." },
+      { "src": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?auto=format&fit=crop&w=800&q=80", "caption": "Costura fina, costura con tiempo." },
       { "src": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?auto=format&fit=crop&w=800&q=80", "caption": "Prueba de luz, últimos detalles." }
     ]
   },
@@ -43,9 +43,9 @@
     "temporada": "PRIMAVERA / VERANO 2024",
     "descripcion": "Capas livianas para climas cálidos y días largos.",
     "manifiesto": "Primavera eterna celebra el aire que entra por la ventana abierta: telas que respiran, hombros descubiertos con elegancia y colores que imitan la arcilla y las hojas tiernas. Es una carta de amor al clima de Jalisco.",
-    "heroImage": "https://images.unsplash.com/photo-1572804013309-27a43509d647?auto=format&fit=crop&w=2000&q=80",
+    "heroImage": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=2000&q=80",
     "galeria": [
-      { "src": "https://images.unsplash.com/photo-1572804013309-27a43509d647?auto=format&fit=crop&w=1400&q=80", "caption": "Primavera en movimiento" },
+      { "src": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?auto=format&fit=crop&w=1400&q=80", "caption": "Primavera en movimiento" },
       { "src": "https://images.unsplash.com/photo-1509631179647-0177331693ae?auto=format&fit=crop&w=1200&q=80", "caption": "Pantalón palazzo Hierba" }
     ],
     "productSlugs": [
@@ -58,8 +58,8 @@
       "top-canale-terracota"
     ],
     "bts": [
-      { "src": "https://images.unsplash.com/photo-1544966503-7cc5ac882d5f?auto=format&fit=crop&w=800&q=80", "caption": "Teñido natural en proceso." },
-      { "src": "https://images.unsplash.com/photo-1525507119025-1904c3b21b7c?auto=format&fit=crop&w=800&q=80", "caption": "Muestras de color al sol." }
+      { "src": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?auto=format&fit=crop&w=800&q=80", "caption": "Teñido natural en proceso." },
+      { "src": "https://images.unsplash.com/photo-1595777457583-95e059d581b8?auto=format&fit=crop&w=800&q=80", "caption": "Muestras de color al sol." }
     ]
   },
   {
@@ -82,7 +82,7 @@
       "blusa-encaje-vintage"
     ],
     "bts": [
-      { "src": "https://images.unsplash.com/photo-1434389677669-e08b4cac310f?auto=format&fit=crop&w=800&q=80", "caption": "Artesanos en Oaxaca." }
+      { "src": "https://images.unsplash.com/photo-1469334031218-e382a71b716b?auto=format&fit=crop&w=800&q=80", "caption": "Artesanos en Oaxaca." }
     ]
   }
 ]
